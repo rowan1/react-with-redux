@@ -1,0 +1,52 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is the first stream!",
+      "id": 1
+    },
+    {
+      "title": "Rowan",
+      "description": "This is Rowan's stream!",
+      "id": 2
+    },
+    {
+      "title": "Other stream",
+      "description": "This is some stream!",
+      "id": 3
+    },
+    {
+      "title": "Hey",
+      "description": "Hey stream",
+      "id": 4
+    },
+    {
+      "title": "Rowan",
+      "description": "Hey stream",
+      "id": 5
+    },
+    {
+      "title": "stream2",
+      "description": "this is the description of stream2",
+      "id": 6
+    },
+    {
+      "title": "Doubi",
+      "description": "Doubi yo!",
+      "userId": "118244160377903245674",
+      "id": 8
+    },
+    {
+      "title": "First stream",
+      "description": "Hey there it's mm first stream",
+      "userId": "102568103966476202711",
+      "id": 11
+    },
+    {
+      "title": "Rowan",
+      "description": "Hey stream roro",
+      "userId": "118244160377903245674",
+      "id": 12
+    }
+  ]
+}
